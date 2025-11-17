@@ -138,6 +138,6 @@ Include in your GitHub repo:
 - `requirements.txt`
 - Updated `README.md`
 
-Make your repository public and name it:
+
 
 
